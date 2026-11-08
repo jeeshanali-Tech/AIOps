@@ -1,0 +1,6 @@
+{
+  "name": "OpsPilot",
+  "description": "AI-Driven IT Operations Management Platform with multi-agent orchestration, incident correlation, infrastructure monitoring, and approval workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
